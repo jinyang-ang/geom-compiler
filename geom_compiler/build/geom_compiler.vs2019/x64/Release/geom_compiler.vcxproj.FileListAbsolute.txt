@@ -1,0 +1,2 @@
+C:\Users\jinya\Desktop\School\Year3\SEM2\CSD250\HM2\CSD2150-HM5\geom_compiler\build\geom_compiler.vs2019\x64\Release\geom_compiler.exe
+C:\Users\jinya\Desktop\School\Year3\GAM300\BaseEngine\Tools\geom_compiler\build\geom_compiler.vs2019\x64\Release\geom_compiler.exe

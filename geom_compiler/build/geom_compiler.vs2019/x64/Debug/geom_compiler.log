@@ -1,0 +1,177 @@
+﻿  allocator.cpp
+  clusterizer.cpp
+  indexcodec.cpp
+  indexgenerator.cpp
+  overdrawanalyzer.cpp
+  overdrawoptimizer.cpp
+  simplifier.cpp
+  spatialorder.cpp
+  stripifier.cpp
+  vcacheanalyzer.cpp
+  vcacheoptimizer.cpp
+  vertexcodec.cpp
+  vertexfilter.cpp
+  vfetchanalyzer.cpp
+  vfetchoptimizer.cpp
+  QuickHull.cpp
+  descriptor.cpp
+  main.cpp
+  Generating Code...
+assimp-vc142-mt.lib(Importer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(Importer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(Version.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(Version.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(BaseProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(BaseProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultLogger.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultLogger.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ScenePreprocessor.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ScenePreprocessor.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(BaseImporter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(BaseImporter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultIOSystem.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultIOSystem.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(IOSystem.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(IOSystem.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ValidateDataStructure.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ValidateDataStructure.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ImporterRegistry.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ImporterRegistry.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(PostStepRegistry.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(PostStepRegistry.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(MaterialSystem.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(MaterialSystem.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(scene.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(scene.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(Exceptional.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(Exceptional.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultIOStream.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(DefaultIOStream.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(material.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(material.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileImporter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileImporter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaLoader.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaLoader.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXImporter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXImporter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(glTFImporter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(glTFImporter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(glTF2Importer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(glTF2Importer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SpatialSort.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SpatialSort.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ProcessHelper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ProcessHelper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(CalcTangentsProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(CalcTangentsProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(JoinVerticesProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(JoinVerticesProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ConvertToLHProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ConvertToLHProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(TriangulateProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(TriangulateProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(DropFaceNormalsProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(DropFaceNormalsProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(GenFaceNormalsProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(GenFaceNormalsProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(GenVertexNormalsProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(GenVertexNormalsProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(RemoveVCProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(RemoveVCProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SplitLargeMeshes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SplitLargeMeshes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(PretransformVertices.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(PretransformVertices.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(LimitBoneWeightsProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(LimitBoneWeightsProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ImproveCacheLocality.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ImproveCacheLocality.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FixNormalsStep.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FixNormalsStep.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(RemoveRedundantMaterials.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(RemoveRedundantMaterials.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(EmbedTexturesProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(EmbedTexturesProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FindInvalidDataProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FindInvalidDataProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FindDegenerates.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FindDegenerates.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SortByPTypeProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SortByPTypeProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ComputeUVMappingProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ComputeUVMappingProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(TextureTransform.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(TextureTransform.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FindInstancesProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FindInstancesProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(OptimizeMeshes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(OptimizeMeshes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(OptimizeGraph.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(OptimizeGraph.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SplitByBoneCountProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SplitByBoneCountProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(DeboneProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(DeboneProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ScaleProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ScaleProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ArmaturePopulate.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ArmaturePopulate.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(GenBoundingBoxesProcess.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(GenBoundingBoxesProcess.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileParser.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileParser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaParser.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaParser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(CreateAnimMesh.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(CreateAnimMesh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SkeletonMeshBuilder.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SkeletonMeshBuilder.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ZipArchiveIOSystem.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ZipArchiveIOSystem.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXTokenizer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXTokenizer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXBinaryTokenizer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXBinaryTokenizer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXParser.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXParser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXProperties.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXProperties.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDocument.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDocument.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXConverter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXConverter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(glTFCommon.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(glTFCommon.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(Base64.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(Base64.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(SceneCombiner.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(SceneCombiner.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(VertexTriangleAdjacency.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(VertexTriangleAdjacency.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(GeometryUtils.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(GeometryUtils.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileMtlImporter.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ObjFileMtlImporter.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaHelper.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(ColladaHelper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXUtil.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXUtil.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(Compression.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(Compression.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDocumentUtil.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDocumentUtil.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXNodeAttribute.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXNodeAttribute.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXModel.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXModel.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXMaterial.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXMaterial.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXAnimation.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXAnimation.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDeformer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXDeformer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+assimp-vc142-mt.lib(FBXMeshGeometry.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in QuickHull.obj
+assimp-vc142-mt.lib(FBXMeshGeometry.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in QuickHull.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\jinya\Desktop\School\Year3\GAM300\BaseEngine\Tools\geom_compiler\build\geom_compiler.vs2019\x64\Debug\geom_compiler.exe : fatal error LNK1319: 156 mismatches detected

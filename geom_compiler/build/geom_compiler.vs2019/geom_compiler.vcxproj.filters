@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\mesh_optimizer">
+      <UniqueIdentifier>{5fbfe3b1-145e-4f11-9461-c0a900112add}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\quickhull-master\QuickHull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\allocator.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\clusterizer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\indexcodec.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\indexgenerator.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\overdrawanalyzer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\overdrawoptimizer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\simplifier.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\spatialorder.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\stripifier.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vcacheanalyzer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vcacheoptimizer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vertexcodec.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vertexfilter.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vfetchanalyzer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dependencies\meshoptimizer\src\vfetchoptimizer.cpp">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\descriptor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\dependencies\quickhull-master\HalfEdgeMesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\dependencies\quickhull-master\MathUtils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\dependencies\quickhull-master\QuickHull.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\dependencies\meshoptimizer\src\meshoptimizer.h">
+      <Filter>Source Files\mesh_optimizer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

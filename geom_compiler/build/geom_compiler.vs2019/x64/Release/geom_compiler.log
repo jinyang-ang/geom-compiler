@@ -1,0 +1,7 @@
+﻿  descriptor.cpp
+  Generating code
+  6 of 2544 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  geom_compiler.vcxproj -> C:\Users\jinya\Desktop\School\Year3\GAM300\BaseEngine\Tools\geom_compiler\build\geom_compiler.vs2019\x64\Release\geom_compiler.exe
